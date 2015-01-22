@@ -16,5 +16,9 @@
 //= require underscore
 //= require react
 //= require react_ujs
+//= require backbone
+//= require backbone-react-component
 //= require components
+//= require models
+//= require app
 //= require_tree .
